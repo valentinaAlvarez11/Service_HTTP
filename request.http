@@ -5,7 +5,7 @@ Content-Type: application/json
 {
   "name":"Valentina ",
   "lastname":"Alvarez Isaza",
-  "dni":"10045",
+  "dni":"10025",
   "address":[{
     "city":"Manizales",
     "code_zip":170003,
